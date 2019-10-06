@@ -6,7 +6,7 @@ Bu uygulama sayesinde **instagram** üzerinde paylaştığınız **çekiliş** g
 - Herkese açık profiller için geçerlidir, Gizli profiller için kullanıcı girişi yaptırıp sonrasında kullanabilirsiniz.
 - Projenin tamamını satın almak için iletişime geçebilirsiniz.
 
-**Video**: [Kodlama ve Test Videosu](https://youtube.com "Kodlama ve Test Videosu")
+**Video**: [Kodlama ve Test Videosu](https://youtu.be/hQR_f4j_53o "Kodlama ve Test Videosu")
 
 **Facebook**: [/18adilcan](https://facebook.com/18adilcan "/18adilcan")
 **Instagram**: [@18adilcan](https://instagram.com/18adilcan "@18adilcan")
