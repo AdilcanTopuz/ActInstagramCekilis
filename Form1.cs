@@ -49,7 +49,7 @@ namespace ActInstagramCekilis
                 try
                 {
                     DriverBaslat("");
-                    driver.Navigate().GoToUrl("https://www.instagram.com/p/B3RevZFFth0/");
+                    driver.Navigate().GoToUrl(txtGonderiLink.Text);
 
                     var carpi = driver.FindElement(By.ClassName("xqRnw"));
                     carpi.Click();
